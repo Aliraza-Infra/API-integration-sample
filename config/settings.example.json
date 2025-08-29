@@ -1,0 +1,10 @@
+{
+    "github": {
+        "base_url": "https://api.github.com",
+        "token": "<optional_github_token>"
+    },
+    "openai": {
+        "base_url": "https://api.openai.com/v1",
+        "api_key": "<OPENAI_API_KEY>"
+    }
+}
